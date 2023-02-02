@@ -4,7 +4,7 @@ Blank Project README template
 * Final Screenshots create on - https://ui.dev/amiresponsive
   <img src="">
 * [Link to Deployed Project](<<add_deployed_link_to_project_here>>)
-* Gitpod: use 'python -m http.server' to preview in server
+* Gitpod: use `python -m http.server` to preview in server
 
 ## Contents(#contents)
 ​
@@ -148,7 +148,7 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ## Link to Final Site
 * [Link to Deployed Project](<<add_deployed_link_to_project_here>>)
-* Gitpod: use 'python3 -m http.server' to preview in server
+* Gitpod: use `python -m http.server` to preview in server
 
 ## Purpose
 * 
