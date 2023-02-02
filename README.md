@@ -2,8 +2,9 @@ Blank Project README template
 
 # Project Name
 * Final Screenshots create on - https://ui.dev/amiresponsive
+  <img src="">
 * [Link to Deployed Project](<<add_deployed_link_to_project_here>>)
-* Gitpod: use ”python3 -m http.server” to preview in server
+* Gitpod: use 'python -m http.server' to preview in server
 
 ## Contents(#contents)
 ​
@@ -38,7 +39,7 @@ Blank Project README template
 
 ## Design
    ### Wireframes
-   * 
+   <img src="">
 
    ### Color Scheme
    * 
@@ -78,10 +79,13 @@ The following steps were taken to deploy this site:
 ### Tests performed
 The following tests were performed on the app
   * W3C HTML validation
+  <img src="">
 
   * W3C CSS Validation
+  <img src="">
 
   * Lighthouse Test
+  <img src="">
 
   * Manual testing of all the links
  
@@ -140,9 +144,11 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ## Project Screenshot
 
+<img src="">
+
 ## Link to Final Site
 * [Link to Deployed Project](<<add_deployed_link_to_project_here>>)
-* Gitpod: use ”python3 -m http.server” to preview in server
+* Gitpod: use 'python3 -m http.server' to preview in server
 
 ## Purpose
 * 
