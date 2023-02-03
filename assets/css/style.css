@@ -1,4 +1,8 @@
 /* Standard setup for most projects  */
+* {
+    box-sizing: border-box;
+    /* removes any extra width - allows for accurate padding */
+}
 
 body {
     background-color: rgb(255, 255, 255);
